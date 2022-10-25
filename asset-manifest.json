@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//anubhavanand2002.github.io/new-expense-tracker/static/css/main.635cb724.css",
+    "main.js": "/http//anubhavanand2002.github.io/new-expense-tracker/static/js/main.d5b93893.js",
+    "index.html": "/http//anubhavanand2002.github.io/new-expense-tracker/index.html",
+    "main.635cb724.css.map": "/http//anubhavanand2002.github.io/new-expense-tracker/static/css/main.635cb724.css.map",
+    "main.d5b93893.js.map": "/http//anubhavanand2002.github.io/new-expense-tracker/static/js/main.d5b93893.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.635cb724.css",
+    "static/js/main.d5b93893.js"
+  ]
+}
